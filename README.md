@@ -1,4 +1,4 @@
-# Hello, I'm ##Siavash 👋
+# Hello, I'm Siavash 👋
 
 I am currently a dedicated Computer Science student at **Shomal University**, passionately exploring the vast realms of Artificial Intelligence, Machine Learning, and Data Science. Alongside my academic pursuits, I am also a qualified English teacher, holding a **Teaching Training Certificate (TTC)**, which reflects my commitment to education and communication.
 
